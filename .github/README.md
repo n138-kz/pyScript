@@ -1,14 +1,5 @@
 # [pyScript](https://github.com/n138-kz/pyScript)
 
-## github repository initial setup
-
-1. "Actions secrets and variables" > "Repository secrets" 移動し、`DISCORD_WEBHOOK_URL` を設定  
-  値は Discord webhook url を設定
-
-```
-DISCORD_WEBHOOK_URL
-```
-
 ## Activity
 
 [![GitHub repo license](https://img.shields.io/github/license/n138-kz/pyScript)](/LICENSE)

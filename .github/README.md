@@ -21,8 +21,17 @@
 - [![](https://www.google.com/s2/favicons?size=64&domain=https://github.com)pyScript](https://github.com/n138-kz/pyScript/)
 - [![](https://www.google.com/s2/favicons?size=64&domain=https://x.com)なにっ！？HTML上にPythonコードを書いて、WEBブラウザ上で実行できるだとっ！？😊✨](https://x.com/miyashin_prg/status/1941992121390731714?s=46&t=YIIdtzsNyDYK5MgxCnarZg)
 > ```html
+> <head>
 > <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
 > <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+> </head>
+> <body>
+> <py-script>
+> import sys
+> print('Hello world')
+> sys.exit()
+> </py-script>
+> </body>
 > ```
 
 ## License
